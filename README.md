@@ -1,18 +1,3 @@
-.github/iş akışları
-
-
-kupa.yml
-
-
-arcade.yml
-
-
-README.md
-
-Readme dosyanız tamamlandı 🎉🎉🎉
-Bu projeyi yıldızla.
-Github'da çatalla
-
 <h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
 ###
@@ -65,41 +50,3 @@ Github'da çatalla
 </picture>
 
 ###
-Ortasında koyu renkli dosya simgesi bulunan beyaz bir daire.
-Profil Readme Oluşturucu
-Mauro de Souza tarafından geliştirilmiş ve bakımı yapılmaktadır.
-Github
-Bağış yapmak
-Paylaşmak
-Gizlilik Politikası
-
-Dosya İçeriğini Kopyala
-README dosyanızı bir üst seviyeye taşıyın.
-Şablonları herkes kullanabilir, ancak ne yaptığınızı bildiğinizde bu kendini gösterir.
-
-👉 Becerilerinizi ve README dosyanızı geliştirecek kaynakları keşfedin. Hemen başlayın.
-
-
-İngilizcenizi Geliştirin
-Gerçek geliştiriciler İngilizce olarak hata ayıklama yaparlar.
-
-💰 Preply'de ilk deneme dersinizde %70 indirimden yararlanın ve dünya çapındaki en iyi öğretmenlerle İngilizcenizi geliştirmeye başlayın 🚀
-
-👉 %70 İndirim Kazanın 👈
-
-Temiz Kod
-Bob Amca tarafından yazılmış Çevik Yazılım Geliştirme El Kitabı.
-
-Kitabı edinin
-
-Temiz Mimari
-Uncle Bob'dan Yazılım Mimari Çözümleri.
-
-Kitabı edinin
-
-Daha Fazla Kitap Keşfedin
-Kodlama becerilerinizi geliştirmek için özenle seçilmiş tüm başlıkları inceleyin.
-
-Daha fazla kitap
-💡 Bu panelde satış ortaklığı bağlantıları bulunmaktadır. Faydalı bir şey bulup satın alma işlemi gerçekleştirirseniz, küçük bir komisyon kazanabilirim ☕. Desteğiniz için teşekkürler ❤
-Profile Readme Generator
