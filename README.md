@@ -42,12 +42,6 @@ With a strong passion for secure coding and system security, I have hands-on exp
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazretisot&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## GitHub Trophies & Badges
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.com/api/giverank?username=Hazretisot&theme=tokyonight" alt="GitHub Rank Badge" />
-</p>
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazretisot&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
