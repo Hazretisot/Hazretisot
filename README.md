@@ -45,7 +45,7 @@ With a strong passion for secure coding and system security, I have hands-on exp
 ## GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hazretisot&theme=onedark" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hazretisot&theme=tokyonight" alt="trophy" />
 </p>
 
 ## GitHub Activity Graph
