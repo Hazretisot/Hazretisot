@@ -13,7 +13,11 @@ With a strong passion for secure coding and system security, I have hands-on exp
 * 🎓 **Education:** Information Security Technology (GPA: 3.44 / 4.00) - Honor Student.
 
 ## Contact Me
-<p><a href="https://www.linkedin.com/in/ismail-azman-100a981b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+<p>
+  <a href="https://www.linkedin.com/in/ismail-azman-100a981b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+</p>
 
 ## Skills
 
@@ -29,17 +33,20 @@ With a strong passion for secure coding and system security, I have hands-on exp
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hazretisot&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hazretisot&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazretisot&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" height="150" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazretisot&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazretisot&theme=null" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/Hazretisot/count.svg?" alt="visitors count" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazretisot&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hazretisot" alt="trophy" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hazretisot&theme=onedark" alt="trophy" />
+</p>
 
 ## GitHub Activity Graph
 
