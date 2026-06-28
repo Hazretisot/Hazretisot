@@ -1,28 +1,45 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+# Hello 👋, I'm İsmail Azman
+### Cyber Security Expert
 
-###
+## 🛡️ About Me
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+Hello! I am a **Cyber Security Technology** graduate, completed my degree as an **Honor Student with a 3.44/4.00 GPA**. I focus on cyber security, software development, and low-level technologies. 
 
-###
+With a strong passion for secure coding and system security, I have hands-on experience in both the defense industry and enterprise cyber security domains.
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Hazretisot&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Hazretisot/Hazretisot/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### 💼 Experience & Background
+* 🛰️ **Defense Industry (6 Months):** Developed a specialized software project focused on Radio Frequencies (RF) and signal analysis.
+* 🛡️ **Cyber Security Firm (6 Months):** Worked as a Cyber Security Intern, gaining practical experience in threat analysis, vulnerability assessment, and defensive/offensive security concepts.
+* 🎓 **Education:** Information Security Technology (GPA: 3.44 / 4.00) - Honor Student.
 
-###
+## Contact Me
+<p><a href="https://www.linkedin.com/in/ismail-azman-100a981b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hazretisot/Hazretisot/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hazretisot/Hazretisot/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hazretisot/Hazretisot/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+## Skills
 
-###
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+</p>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hazretisot&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazretisot&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazretisot&theme=null" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/Hazretisot/count.svg?" alt="visitors count" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hazretisot" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazretisot&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
